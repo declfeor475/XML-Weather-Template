@@ -1,4 +1,8 @@
-﻿using System;
+﻿/// Declan Feore
+/// October 2020
+/// Basic weather app that can display the current day's current temp, max and min temp, sunrise and sunset, and weather conditions in Stratford.
+/// It also can display the max and min temps, and weather conditions for the next 6 days in Stratford.
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
